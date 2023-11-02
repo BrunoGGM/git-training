@@ -11,3 +11,4 @@ body {
   background-color: #f0fff8;
 }
 nav, footer { background-color: #C0D8DF; }
+.cat { max-width: 40%; padding: 5 }
